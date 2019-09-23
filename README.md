@@ -1,4 +1,4 @@
-# flask-restaurant
+# flask-restaurant-app
 
 To run this  project
 
